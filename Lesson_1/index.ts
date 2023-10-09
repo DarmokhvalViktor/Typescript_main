@@ -13,7 +13,7 @@
 // const user: IUser<number> = {id: 1, name: "Max", age: 5, work: [1, 2, 3, 4, 5]};
 // const user2: IUser<string> = {id: 1, name: "Max", age: 5, work: ['1', '2', '3', '4', '5']};
 // const user3: Partial<IUser<string>> = {id: 1, name: "Max"};
-
+console.log("test2")
 interface IUser {
     id: number;
     name: string;

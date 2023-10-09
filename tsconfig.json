@@ -19,6 +19,8 @@
     "noFallthroughCasesInSwitch": false
   },
   "files": [
-    "index.ts"
+    "Lesson_1/index.ts",
+    "Lesson_2/index2.ts",
+    "Lesson_2/posts.ts"
   ]
 }
